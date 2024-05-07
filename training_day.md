@@ -42,7 +42,7 @@ If you'd like to deliver a training session, or know someone who'd be great: [ge
 
 <br />
 
-### What are the COVID mitigations?
+## What are the COVID mitigations?
 
 COVID-19 rates across Europe are still high. We want to keep attendees safe, while at the same time allowing for as much familiarity and community spirit as is possible. For this reason our policy at the training day will be:
 
