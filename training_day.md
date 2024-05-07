@@ -20,11 +20,44 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-The training day is being organised. We already know that these trainers will have sessions!
-* Clare Sudbery ![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery")
-* Jon Jagger ![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger")
-* Tim Ottinger ![Tim Ottinger](img/2023/trainers/tim_ottinger.png "Photo of Tim Ottinger")
-* Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") and Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce")
+The training day is being organised. We already know that these trainers will have sessions on these topics!
+
+---
+
+Clare Sudbery ![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery")
+
+**Ensemble/Mob facilitation**
+
+---
+
+Jon Jagger ![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger")
+
+**TDD/Cyber-Dojo**
+
+---
+
+Fran Buontempo ![Fran Buontempo](img/2024/trainers/fran_buontempo.jpg "Photo of Fran Buontempo")
+
+**Learn C++ by Example**
+
+---
+
+Tim Ottinger ![Tim Ottinger](img/2023/trainers/tim_ottinger.png "Photo of Tim Ottinger")
+
+**Microtesting & refactoring?**
+
+---
+Diana Montalion ![Diana Montalion](img/2024/trainers/diana_montalion.png "Photo of Diana Montalion") and Andrew Harmel-Law ![Andrew Harmel-Law](img/2024/trainers/andrew_harmel-law.jpg "Photo of Andrew Harmel-Law")
+
+**Intro to Systems Thinking**
+
+---
+
+Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") and Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce")
+
+**The "phasing" of refactorings**: how you deliver a refactoring that cannot be delivered in a single commit
+
+---
 
 Last year (see [programme](https://github.com/SoCraTesUK/socrates-uk/wiki/2023-Training-Day)), we had two tracks: introduction to the given topics and advanced topics. Mix & match on the tracks is encouraged!
 
