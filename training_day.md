@@ -59,6 +59,12 @@ Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo 
 
 ---
 
+Jason Gorman ![Jason Gorman](img/2024/trainers/jason_gorman.jpg "Photo of Jason Gorman")
+
+**High-level design: a test-driven approach**
+
+---
+
 Last year (see [programme](https://github.com/SoCraTesUK/socrates-uk/wiki/2023-Training-Day)), we had two tracks: introduction to the given topics and advanced topics. Mix & match on the tracks is encouraged!
 
 If you'd like to deliver a training session, or know someone who'd be great: [get in touch][contact] :) The session length below are informative, as an example of what we did last year.
