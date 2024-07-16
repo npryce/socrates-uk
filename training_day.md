@@ -44,7 +44,7 @@ Fran Buontempo ![Fran Buontempo](img/2024/trainers/fran_buontempo.jpg "Photo of 
 
 Tim Ottinger ![Tim Ottinger](img/2023/trainers/tim_ottinger.png "Photo of Tim Ottinger")
 
-**Microtesting & refactoring?**
+**Microtesting & refactoring**
 
 ---
 Diana Montalion ![Diana Montalion](img/2024/trainers/diana_montalion.png "Photo of Diana Montalion") and Andrew Harmel-Law ![Andrew Harmel-Law](img/2024/trainers/andrew_harmel-law.jpg "Photo of Andrew Harmel-Law")
@@ -55,7 +55,7 @@ Diana Montalion ![Diana Montalion](img/2024/trainers/diana_montalion.png "Photo 
 
 Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") and Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce")
 
-**The "phasing" of refactorings**: how you deliver a refactoring that cannot be delivered in a single commit
+**Refactoring beyond the commit**: how you deliver a refactoring that cannot be delivered in a single commit
 
 ---
 
