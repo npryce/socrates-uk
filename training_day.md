@@ -20,63 +20,18 @@ Sessions will cover foundational topics - the roots of what our community is abo
 
 ## Programme
 
-The training day is being organised. We already know that these trainers will have sessions on these topics!
+The training day is organised around two tracks: this year *Track A* and *Track B*. Mix & match on the tracks is encouraged!
 
----
-
-Clare Sudbery ![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery")
-
-**Ensemble/Mob facilitation**
-
----
-
-Jon Jagger ![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger")
-
-**TDD/Cyber-Dojo**
-
----
-
-Fran Buontempo ![Fran Buontempo](img/2024/trainers/fran_buontempo.jpg "Photo of Fran Buontempo")
-
-**Learn C++ by Example**
-
----
-
-Tim Ottinger ![Tim Ottinger](img/2023/trainers/tim_ottinger.png "Photo of Tim Ottinger")
-
-**Microtesting & refactoring**
-
----
-Diana Montalion ![Diana Montalion](img/2024/trainers/diana_montalion.png "Photo of Diana Montalion") and Andrew Harmel-Law ![Andrew Harmel-Law](img/2024/trainers/andrew_harmel-law.jpg "Photo of Andrew Harmel-Law")
-
-**Intro to Systems Thinking**
-
----
-
-Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") and Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce")
-
-**Refactoring beyond the commit**: how you deliver a refactoring that cannot be delivered in a single commit
-
----
-
-Jason Gorman ![Jason Gorman](img/2024/trainers/jason_gorman.jpg "Photo of Jason Gorman")
-
-**High-level design: a test-driven approach**
-
----
-
-Last year (see [programme](https://github.com/SoCraTesUK/socrates-uk/wiki/2023-Training-Day)), we had two tracks: introduction to the given topics and advanced topics. Mix & match on the tracks is encouraged!
-
-If you'd like to deliver a training session, or know someone who'd be great: [get in touch][contact] :) The session length below are informative, as an example of what we did last year.
-
-| Time |
-|<img width=150/> | <img width=500/> |
-| 09:30 - 10:30 | |
-| 10:45 - 11:45	| |
-| 12:00 - 13:00 | |
-| 13:00 - 14:30 | *Lunch*	|
-| 14:30 - 16:00 | |
-| 16:15 - 17:45 | |
+| Time | Track A | Track B |
+|<img width=150/> | <img width=600/> | <img width=600/> |
+| *09:30 - 09:45* | *Welcome* | - |
+|  09:45 - 10:45  | **TDD game with Cyber-Dojo**, by Jon Jagger ![Jon Jagger](img/2023/trainers/jon_jagger.png "Photo of Jon Jagger") | - |
+| *10:45 - 11:00* | *Break* | - |
+|  11:00 - 12:30  | **Learn C++ by example**, by Fran Buontempo ![Fran Buontempo](img/2024/trainers/fran_buontempo.jpg "Photo of Fran Buontempo")  | **Kotlin Introduction** via Ensemble/Mob, by Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce") |
+| *12:30 - 14:00* | *Lunch* | - |
+|  14:30 - 16:00  | **Intro to Systems Thinking**, by Diana Montalion ![Diana Montalion](img/2024/trainers/diana_montalion.png "Photo of Diana Montalion") <br /> and Andrew Harmel-Law ![Andrew Harmel-Law](img/2024/trainers/andrew_harmel-law.jpg "Photo of Andrew Harmel-Law") | **Refactoring beyond the commit**: How you deliver a refactoring that cannot be delivered in a single commit, by Duncan McGregor ![Duncan McGregor](img/2023/trainers/duncan_mcgregor.png "Photo of Duncan McGregor") <br /> and Nat Pryce ![Nat Pryce](img/2023/trainers/nat_pryce.png "Photo of Nat Pryce")  |
+| *16:00 - 16:15* | *Break* | - |
+|  16:15 - 17:45  | **Ensemble/Mob facilitation** by Clare Sudbery ![Clare Sudbery](img/2023/trainers/clare_sudbery.png "Photo of Clare Sudbery") | **High-level design: a test-driven approach** by Jason Gorman ![Jason Gorman](img/2024/trainers/jason_gorman.jpg "Photo of Jason Gorman") |
 {:.table-striped}
 
 <br />
