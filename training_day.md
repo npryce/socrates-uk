@@ -27,7 +27,7 @@ The training day is organised around two tracks: this year *Track A* and *Track 
 | *09:30 - 09:45* | *Welcome* | - |
 |  09:45 - 10:45  | [TDD game with Cyber-Dojo](#tdd-game-with-cyber-dojo), by Jon Jagger | - |
 | *10:45 - 11:00* | *Break* | - |
-|  11:00 - 12:30  | [Learn C++ by example](#learn-c-by-example), by Fran Buontempo  | [Kotlin Introduction](#kotlin-introduction) via Ensemble/Mob, by Duncan McGregor |
+|  11:00 - 12:30  | [Learn C++ by example](#learn-c-by-example), by Fran Buontempo  | [Functional FizzBuzz](#functional-fizzbuzz), by Duncan McGregor |
 | *12:30 - 14:00* | *Lunch* | - |
 |  14:30 - 16:00  | [Intro to Systems Thinking](#intro-to-systems-thinking), by Diana Montalion and Andrew Harmel-Law | [Refactoring beyond the commit](#refactoring-beyond-the-commit) by Duncan McGregor and Nat Pryce <br>  How you deliver a refactoring that cannot be delivered in a single commit|
 | *16:00 - 16:15* | *Break* | - |
@@ -90,10 +90,12 @@ We’ll think of the general questions to ask when learning a new language or re
 We’ll also have a game we can play, which might not be a learning outcome, but is a result and might spark other ideas for follow up discussions.
 
 
-### Kotlin Introduction
+### Functional FizzBuzz
 
 Duncan McGregor ![Duncan McGregor](img/2024/trainers/duncan_mcgregor.png "Photo of Duncan McGregor")
 
+There's a lot we can learn from the simple FizzBuzz kata. In this workshop we'll work together to practice Test Driven Development and refactoring,
+before expanding the scope and exploring testability, correctness, error handling, actions, calculations, and data.
 
 ### Intro to Systems Thinking
 
