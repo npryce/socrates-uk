@@ -10,7 +10,7 @@ title: Location
 
 The retreat will be hosted at [Milton Hill House][MiltonHillHouse], which is surrounded by 22 acres of landscaped grounds and trees, delivering tranquil setting and backdrop for SoCraTes UK {{ site.event_details.year }}.
 
-[Milton Hill House][MiltonHillHouse] is just 40 minutes by train into London’s Paddington, 16 minutes drive from junction 13 of the M4, 25 minutes drive from Oxford, 60 miles from London Heathrow and 80 miles from Gatwick airport. [Milton Hill House][MiltonHillHouse] is easily accessible by rail, air, or car. It’s situated on the A4130 between Milton and Rowstock, within easy reach of London and the main motorways.
+[Milton Hill House][MiltonHillHouse] is 50 minutes by taxi + train into London’s Paddington, 16 minutes drive from junction 13 of the M4, 25 minutes drive from Oxford, 60 miles from London Heathrow and 80 miles from Gatwick airport. [Milton Hill House][MiltonHillHouse] is easily accessible by rail, air, or car. It’s situated on the A4130 between Milton and Rowstock, within easy reach of London and the main motorways.
 
 The nearest train station is Didcot Parkway, 4 miles away.
 
