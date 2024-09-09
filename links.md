@@ -2,7 +2,7 @@
 [twitter]: https://twitter.com/socrates_uk
 [mastodon]: https://discuss.systems/@SoCraTes_UK
 [twitter_socrates_hashtag]: https://twitter.com/hashtag/SoCraTesUK
-[softwarecrafters]: https://www.softwarecrafters.org/
+[software_crafters_slack]: https://slack.softwarecrafters.org/
 [LSCC]: http://www.meetup.com/london-software-craftsmanship/
 [open_space_unconference]: https://en.wikipedia.org/wiki/Open_Space_Technology
 
