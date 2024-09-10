@@ -39,13 +39,13 @@ Free parking is available. There are not yet charging bays for electric vehicles
 
 ### When can I check in?
 
-Check ins will start on ***Thursday after TBCpm***. SoCraTes UK {{ site.event_details.year }} will start at TBCpm, just before dinner.
+Check ins will start on ***Thursday after 3pm***. SoCraTes UK {{ site.event_details.year }} will start at 6.15pm, just before dinner.
 
 <br>
 
 ### When do I need to check out?
 
-Check outs must be finished ***on Sunday before TBCam. Late check outs are TBC***.
+Check outs must be finished ***on Sunday before 11am***. Late check out might be possible for a fee (it depends whether the room is booked afterwards. Let us know, we will check with the venue).
 
 <br>
 
